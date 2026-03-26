@@ -1,4 +1,4 @@
-# Lenny, Help Me.
+# Lenny, help Me.
 
 基于 [Lenny's Podcast](https://www.lennyspodcast.com/) 86 个专家级 skill 的 AI 顾问，涵盖产品、增长、销售、领导力、招聘、组织变革、创业、职业发展、AI 等领域。
 
