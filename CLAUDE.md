@@ -25,7 +25,7 @@
 
 当用户提出与 skill 目录相关的问题时（产品、增长、销售、领导力、招聘、组织、创业、职业、AI 等）：
 
-1. **匹配意图到 skill** — 从下方目录中找到最相关的 skill。
+1. **匹配意图到 skill** — 从下方目录中找到最相关的 skill。目录按推进顺序分为 10 组，优先在核心 10 组中匹配；**「备用区」平时不必扫描**，只有当用户的问题明确落在打工路径或双边市场时才查。
 2. **先读 SKILL.md** — 每个 skill 位于 `lenny-skills/skills/<skill-name>/SKILL.md`，给建议前必须先读。需要更深入的上下文时，查看同目录下的 `references/guest-insights.md`。
 3. **用框架，不用空话** — 使用 skill 中的核心原则（Core Principles）、诊断问题（Questions）和常见错误（Common Mistakes），结合用户实际情况给出具体、可执行的建议。
 4. **交叉引用** — 每个 skill 都列出了相关 skill（Related Skills）。当问题跨多个领域时，阅读并综合多个 skill。
@@ -33,38 +33,44 @@
 
 ## Skill 目录
 
-### 招聘与团队建设
-`interviewing-evaluating-candidates` `hiring-product-talent` `founding-exec-team` `building-growth-team` `team-culture` `coaching-development` `giving-feedback` `fixing-underperforming-teams`
+按「一件事从想清楚到规模化」的推进顺序排列。1→10 大致就是一个产品从找方向、做出来、推出去，到带团队、管自己的过程。
 
-### 用户研究与发现
-`customer-interviews` `analyzing-user-feedback` `continuous-discovery` `idea-validation` `measuring-pmf` `defining-icp`
+### 1. 找方向与验证
+`evaluating-startup-ideas` `idea-validation` `measuring-pmf` `defining-icp` `product-vision` `defining-product-strategy` `competitive-strategy` `positioning`
 
-### 策略与规划
-`product-vision` `defining-product-strategy` `roadmap-prioritization` `goal-setting-okrs` `writing-prds` `north-star-metrics` `evaluating-trade-offs` `high-stakes-decisions` `product-taste` `planning-cadence`
+### 2. 理解用户
+`customer-interviews` `continuous-discovery` `analyzing-user-feedback` `product-taste`
 
-### 交付与执行
-`shipping-velocity` `engineering-health` `product-reviews` `product-tool-stack` `running-meetings`
+### 3. 决策与规划
+`roadmap-prioritization` `evaluating-trade-offs` `high-stakes-decisions` `goal-setting-okrs` `north-star-metrics` `planning-cadence` `writing-prds`
 
-### 领导力与沟通
+### 4. AI 产品
+`ai-product-strategy` `ai-evals` `ai-native-ux` `building-with-ai-agents` `ai-assisted-prototyping`
+
+### 5. 交付与工程
+`shipping-velocity` `engineering-health` `product-reviews` `running-meetings` `product-tool-stack`
+
+### 6. 增长与变现
+`growth-model` `growth-experimentation` `product-experiments` `acquisition-channels` `referrals-word-of-mouth` `seo-strategy` `user-onboarding-activation` `retention-engagement` `plg-fundamentals` `pricing-strategy` `plg-sales-integration`
+
+### 7. 进入市场
+`launch-planning` `naming-and-branding` `pr-and-press` `marketing-org-and-stack` `founder-sales` `first-b2b-customers` `enterprise-sales-motion` `international-expansion`
+
+### 8. 找人与带人
+`interviewing-evaluating-candidates` `hiring-product-talent` `founding-exec-team` `team-culture` `coaching-development` `giving-feedback` `fixing-underperforming-teams` `org-design` `building-growth-team` `leading-org-change`
+
+### 9. 沟通与影响
 `stakeholder-alignment` `managing-up` `executive-communication` `written-communication` `public-speaking`
 
-### 增长与变现
-`growth-model` `growth-experimentation` `product-experiments` `acquisition-channels` `retention-engagement` `user-onboarding-activation` `pricing-strategy` `plg-fundamentals` `plg-sales-integration` `referrals-word-of-mouth` `seo-strategy` `marketplace-fundamentals` `marketplace-liquidity-take-rates` `supply-demand-balance`
+### 10. 创始人专项
+`fundraising` `founder-psychology` `recovering-from-failure` `time-energy-management`
 
-### 销售与市场进入
-`founder-sales` `first-b2b-customers` `enterprise-sales-motion` `launch-planning` `positioning` `naming-and-branding` `pr-and-press` `competitive-strategy` `marketing-org-and-stack` `international-expansion`
+### 备用区（当前阶段用不上，需要时再查）
 
-### 职业发展
-`breaking-into-product` `pm-career-growth` `building-a-promotion-case` `career-transitions` `negotiating-compensation` `personal-brand-network` `time-energy-management` `recovering-from-failure`
+不删除，但平时不必扫描——它们要么属于打工路径，要么属于我们没做的业务模型。
 
-### AI 与技术
-`ai-product-strategy` `building-with-ai-agents` `ai-evals` `ai-native-ux` `ai-assisted-prototyping`
-
-### 组织与变革
-`org-design` `leading-org-change`
-
-### 创业
-`evaluating-startup-ideas` `fundraising` `founder-psychology`
+- 大厂职业路径：`pm-career-growth` `building-a-promotion-case` `breaking-into-product` `career-transitions` `negotiating-compensation` `personal-brand-network`
+- 双边市场（若不做平台型业务则无关）：`marketplace-fundamentals` `marketplace-liquidity-take-rates` `supply-demand-balance`
 
 ## 咨询输出
 
