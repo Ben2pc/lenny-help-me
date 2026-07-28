@@ -23,37 +23,37 @@
 ## Skill 目录
 
 ### 招聘与团队建设
-`evaluating-candidates` `conducting-interviews` `writing-job-descriptions` `onboarding-new-hires` `building-team-culture` `coaching-pms` `delegating-work` `building-sales-team`
+`interviewing-evaluating-candidates` `hiring-product-talent` `founding-exec-team` `building-growth-team` `team-culture` `coaching-development` `giving-feedback` `fixing-underperforming-teams`
 
 ### 用户研究与发现
-`conducting-user-interviews` `analyzing-user-feedback` `usability-testing` `designing-surveys` `measuring-product-market-fit` `dogfooding`
+`customer-interviews` `analyzing-user-feedback` `continuous-discovery` `idea-validation` `measuring-pmf` `defining-icp`
 
 ### 策略与规划
-`defining-product-vision` `prioritizing-roadmap` `setting-okrs-goals` `writing-prds` `writing-specs-designs` `working-backwards` `problem-definition` `writing-north-star-metrics` `evaluating-trade-offs` `planning-under-uncertainty` `systems-thinking`
+`product-vision` `defining-product-strategy` `roadmap-prioritization` `goal-setting-okrs` `writing-prds` `north-star-metrics` `evaluating-trade-offs` `high-stakes-decisions` `product-taste` `planning-cadence`
 
 ### 交付与执行
-`shipping-products` `managing-timelines` `scoping-cutting` `managing-tech-debt` `post-mortems-retrospectives` `product-operations` `team-rituals`
+`shipping-velocity` `engineering-health` `product-reviews` `product-tool-stack` `running-meetings`
 
-### 领导力与对齐
-`stakeholder-alignment` `managing-up` `having-difficult-conversations` `running-effective-meetings` `running-effective-1-1s` `giving-presentations` `running-decision-processes` `running-design-reviews` `running-offsites` `cross-functional-collaboration` `written-communication`
+### 领导力与沟通
+`stakeholder-alignment` `managing-up` `executive-communication` `written-communication` `public-speaking`
 
 ### 增长与变现
-`designing-growth-loops` `retention-engagement` `pricing-strategy` `user-onboarding` `marketplace-liquidity` `product-led-sales`
+`growth-model` `growth-experimentation` `product-experiments` `acquisition-channels` `retention-engagement` `user-onboarding-activation` `pricing-strategy` `plg-fundamentals` `plg-sales-integration` `referrals-word-of-mouth` `seo-strategy` `marketplace-fundamentals` `marketplace-liquidity-take-rates` `supply-demand-balance`
 
 ### 销售与市场进入
-`founder-sales` `enterprise-sales` `launch-marketing` `positioning-messaging` `brand-storytelling` `content-marketing` `media-relations` `competitive-analysis` `sales-compensation` `sales-qualification` `partnership-bd` `community-building`
+`founder-sales` `first-b2b-customers` `enterprise-sales-motion` `launch-planning` `positioning` `naming-and-branding` `pr-and-press` `competitive-strategy` `marketing-org-and-stack` `international-expansion`
 
 ### 职业发展
-`building-a-promotion-case` `career-transitions` `finding-mentors-sponsors` `managing-imposter-syndrome` `negotiating-offers` `energy-management` `personal-productivity`
+`breaking-into-product` `pm-career-growth` `building-a-promotion-case` `career-transitions` `negotiating-compensation` `personal-brand-network` `time-energy-management` `recovering-from-failure`
 
 ### AI 与技术
-`building-with-llms` `ai-product-strategy` `ai-evals` `vibe-coding` `evaluating-new-technology` `design-engineering` `design-systems`
+`ai-product-strategy` `building-with-ai-agents` `ai-evals` `ai-native-ux` `ai-assisted-prototyping`
 
 ### 组织与变革
-`organizational-design` `organizational-transformation` `engineering-culture` `platform-strategy` `platform-infrastructure` `technical-roadmaps`
+`org-design` `leading-org-change`
 
 ### 创业
-`startup-ideation` `startup-pivoting` `fundraising`
+`evaluating-startup-ideas` `fundraising` `founder-psychology`
 
 ## 咨询输出
 
